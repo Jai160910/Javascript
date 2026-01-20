@@ -1,0 +1,6 @@
+console.log(Math.sqrt(36))
+console.log(Math.pow(3,6))
+console.log(Math.random())
+console.log(Math.ceil(36.7))
+console.log(Math.floor(36.7))
+console.log(Math.round(36.5))
